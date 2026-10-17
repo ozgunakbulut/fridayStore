@@ -4,76 +4,215 @@
     "title": "Xiaomi Mi True Wireless Earbuds",
     "imgURL": "https://m.media-amazon.com/images/I/51uguxa9nYL._AC._SR360,460.jpg",
     "price": "₺134,77",
-    "inStock": true
+    "inStock": true,
+    "categoryId": "7"
   },
   {
     "id": 1,
     "title": "General Mobile GM 20",
     "imgURL": "https://m.media-amazon.com/images/I/51lK00mvFaL._AC._SR180,230.jpg",
     "price": "₺1.810,21",
-    "inStock": true
+    "inStock": true,
+    "categoryId": "7"
   },
   {
     "id": 2,
     "title": "Philips 58PUS8505/62 The One",
     "imgURL": "https://m.media-amazon.com/images/I/71zLCzJcXaL._AC._SR360,460.jpg",
     "price": "₺6.992,25",
-    "inStock": false
+    "inStock": false,
+    "categoryId": "7"
   },
   {
     "id": 3,
     "title": "LG 49UM7100PLB Ultra HD 4K",
     "imgURL": "https://m.media-amazon.com/images/I/71gAldY8eGL._AC._SR360,460.jpg",
     "price": "₺4.614,38",
-    "inStock": true
+    "inStock": true,
+    "categoryId": "7"
   },
   {
     "id": 4,
     "title": "Samsung Galaxy M31 SM-M315F",
     "imgURL": "https://m.media-amazon.com/images/I/71mUIp9oCXL._AC._SR360,460.jpg",
     "price": "₺2.995,80",
-    "inStock": true
+    "inStock": true,
+    "categoryId": "7"
   },
   {
     "id": 5,
     "title": "Apple AirPods Series 2",
     "imgURL": "https://m.media-amazon.com/images/I/51XanmiXw0L._AC._SR360,460.jpg",
     "price": "₺1.299,00",
-    "inStock": true
+    "inStock": true,
+    "categoryId": "7"
   },
   {
     "id": 6,
     "title": "Lenovo Tab M10 Plus",
     "imgURL": "https://m.media-amazon.com/images/I/81JR-A35D0L._AC._SR360,460.jpg",
     "price": "₺2.496,50",
-    "inStock": false
+    "inStock": false,
+    "categoryId": "7"
   },
   {
     "id": 7,
     "title": "Xiaomi Redmi 20000 Mah",
     "imgURL": "https://images-na.ssl-images-amazon.com/images/I/41vVdTukkgL._AC_SX522_.jpg",
     "price": "₺134,70",
-    "inStock": false
+    "inStock": false,
+    "categoryId": "7"
   },
   {
     "id": 8,
     "title": "Xiaomi Mijia Smart Home 360",
     "imgURL": "https://images-na.ssl-images-amazon.com/images/I/31G-rIrW9zL._AC_UL320_SR226,320_.jpg",
     "price": "₺269,73",
-    "inStock": true
+    "inStock": true,
+    "categoryId": "7"
   },
   {
     "id": 9,
     "title": "Xiaomi Mi Box S 4K Ultra HD",
     "imgURL": "https://images-na.ssl-images-amazon.com/images/I/31sNKUGwNUL._AC_.jpg",
     "price": "₺478,53",
-    "inStock": true
+    "inStock": true,
+    "categoryId": "7"
   },
   {
     "id": 10,
     "title": "Haylou Solar LS-5 Smartwatch",
     "imgURL": "https://images-na.ssl-images-amazon.com/images/I/51kfZ4W9YSL._AC_SX522_.jpg",
     "price": "₺296,00",
-    "inStock": true
+    "inStock": true,
+    "categoryId": "6"
+  },
+  {
+    "id": 11,
+    "title": "Lüks 3'lü Koltuk",
+    "imgURL": "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?q=80&w=400&auto=format&fit=crop",
+    "price": "₺8.500,00",
+    "inStock": true,
+    "categoryId": "4"
+  },
+  {
+    "id": 12,
+    "title": "Premium Bebek Bezi (100'lü)",
+    "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGbgD-9VLachgaHe-DAr57sHuBCmK6sMTCW6bVdjr9Hw&s=10",
+    "price": "₺350,00",
+    "inStock": true,
+    "categoryId": "3"
+  },
+  {
+    "id": 13,
+    "title": "Kırmızı Mat Ruj",
+    "imgURL": "https://images.unsplash.com/photo-1586495777744-4413f21062fa?q=80&w=400&auto=format&fit=crop",
+    "price": "₺120,00",
+    "inStock": true,
+    "categoryId": "5"
+  },
+  {
+    "id": 14,
+    "title": "Parlak Kırmızı Oje",
+    "imgURL": "https://images.unsplash.com/photo-1522337660859-02fbefca4702?q=80&w=400&auto=format&fit=crop",
+    "price": "₺45,00",
+    "inStock": true,
+    "categoryId": "5"
+  },
+  {
+    "id": 15,
+    "title": "Şeftali Tonu Allık",
+    "imgURL": "https://images.unsplash.com/photo-1599305090598-fe179d501227?q=80&w=400&auto=format&fit=crop",
+    "price": "₺180,00",
+    "inStock": true,
+    "categoryId": "5"
+  },
+  {
+    "id": 16,
+    "title": "2 Kişilik Kamp Çadırı",
+    "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN61SQ9z9inSqrelh7x1zBfsbfKyR1-CPfkEkBP8Um-Q&s=10",
+    "price": "₺1.800,00",
+    "inStock": true,
+    "categoryId": "8"
+  },
+  {
+    "id": 17,
+    "title": "Ahşap Çalışma Masası",
+    "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwhsRUuav1JgxnNc8TYR6py_bA0gVVqWC2sdP_qt-Kuw&s=10",
+    "price": "₺2.100,00",
+    "inStock": true,
+    "categoryId": "4"
+  },
+  {
+    "id": 18,
+    "title": "Modern Gri Kanepe",
+    "imgURL": "https://images.unsplash.com/photo-1493663284031-b7e3aefcae8e?q=80&w=400&auto=format&fit=crop",
+    "price": "₺7.200,00",
+    "inStock": false,
+    "categoryId": "4"
+  },
+  {
+    "id": 19,
+    "title": "Ergonomik Ofis Sandalyesi",
+    "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjOiDdJj-yEqyrVx_ZlO3VAU0dkcZVaRNCH1JS8uNkYXcMMOaQ-GYJFEpr&s=10",
+    "price": "₺1.450,00",
+    "inStock": true,
+    "categoryId": "4"
+  },
+  {
+    "id": 20,
+    "title": "Taktik Kamp El Feneri",
+    "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrCOYxNFqrUAwP-fatelfBmSB4P4X3OuFPCe5RdePCSEOwtFZSOzJ6bdk&s=10",
+    "price": "₺280,00",
+    "inStock": true,
+    "categoryId": "8"
+  },
+  {
+    "id": 21,
+    "title": "Siyah Tükenmez Kalem Seti",
+    "imgURL": "https://productimages.hepsiburada.net/s/24/375-375/10087858470962.jpg",
+    "price": "₺90,00",
+    "inStock": true,
+    "categoryId": "9"
+  },
+  {
+    "id": 22,
+    "title": "Kadın Kışlık Kaban",
+    "imgURL": "https://images.unsplash.com/photo-1539533018447-63fcce2678e3?q=80&w=400&auto=format&fit=crop",
+    "price": "₺1.850,00",
+    "inStock": true,
+    "categoryId": "1"
+  },
+  {
+    "id": 23,
+    "title": "Kadın Çapraz Askılı Çanta",
+    "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8lYhF4aPDpf4TC0BXlanOzMeeL_8N8gzpBR2ivsUgsw&s=10",
+    "price": "₺450,00",
+    "inStock": true,
+    "categoryId": "1"
+  },
+  {
+    "id": 24,
+    "title": "Erkek Hakiki Deri Ceket",
+    "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOJmGeFNjiNxnj8Ok8HbUyj5FZEER1Qm2EohzsjpZ3rA&s=10",
+    "price": "₺2.400,00",
+    "inStock": true,
+    "categoryId": "2"
+  },
+  {
+    "id": 25,
+    "title": "Erkek Mavi Kot Pantolon",
+    "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF4PcWQJd-ohEWWolGGnL4772p-N_SfToevxAP4IZrrg&s=10",
+    "price": "₺550,00",
+    "inStock": true,
+    "categoryId": "2"
+  },
+  {
+    "id": 26,
+    "title": "Erkek Beyaz Spor Ayakkabı",
+    "imgURL": "https://images.unsplash.com/photo-1608231387042-66d1773070a5?q=80&w=400&auto=format&fit=crop",
+    "price": "₺1.250,00",
+    "inStock": false,
+    "categoryId": "2"
   }
 ]

@@ -1,12 +1,13 @@
 # FridayStore
 
 React Native (Expo) ile geliştirdiğim bir ürün vitrin uygulaması.  
-Patika.dev üzerindeki React Native eğitimi kapsamında öğrenme ve deneme amaçlı olarak geliştirilmektedir.
 
 ## Özellikler
-- Ürün listeleme(eklenecek)
-- Stok durumuna göre yazı rengi
+- Ürün listeleme
+- Stok durumu takibi
 - Basit ve düzenli arayüz
+- Kategori ayrımı
+- sepet ve sepete ekleme 
 
 ## Teknolojiler
 - React Native  
